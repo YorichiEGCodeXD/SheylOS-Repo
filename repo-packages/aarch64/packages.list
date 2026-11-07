@@ -1,1 +1,10 @@
+# Repositorio Oficial de SheylOS - Indice de Paquetes ARM64
+# Formato: comando : archivo_en_github
+
+nano : nano-9.3.tar.gz
+wget : wget2-2.3.0.tar.gz
+curl : curl-8.23.0.tar.gz
+htop : htop-3.5.3.tar.xz
+micro : micro-2.0.15-linux-arm64.tar.gz
+fastfetch : fastfetch-android-aarch64.tar.gz
 
